@@ -89,7 +89,7 @@ public class RequestHelper {
 	 * <B>概要说明：</B>构建RapidRequest请求对象<BR>
 	 * @author JiFeng
 	 * @since 2021年12月10日 下午11:07:40
-	 * @param fullHttpRequest
+	 * @param request
 	 * @param ctx
 	 * @return RapidRequest
 	 */

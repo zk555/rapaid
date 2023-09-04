@@ -112,7 +112,7 @@ public class Rule implements Comparable<Rule>, Serializable {
 		//	过滤器的唯一ID
 		private String id;
 		
-		//	过滤器的配置信息描述：json string 
+		//	过滤器的配置信息描述：json string  {timeout: 500}  {balance: rr}
 		private String config;
 
 		public String getId() {
